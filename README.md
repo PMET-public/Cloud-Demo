@@ -1,8 +1,9 @@
 ## Getting Support
 
-The fastest support is usually via Magento Slack Org on the #m2-demo-support channel. Use the @here notifier to msg everyone currently in the channel. It includes the PMET support team as well as other solutions consultants who may have experienced similar issues.
+Use Magento's Slack organization (the #m2-demo-support channel) for the fastest support. 
+Use the @here notifier to msg everyone currently in the channel. (It includes the PMET support team as well as other solutions consultants who may have experienced similar issues.)
 
-##Reporting Issues
+## Reporting Issues
 1. Check [open issues](https://github.com/PMET-public/Cloud-Demo/issues) here 
 
 1. Always include a clickable url 
